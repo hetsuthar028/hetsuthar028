@@ -59,3 +59,9 @@
 ### GitHub's Stats 📈
 | [![hetsuthar028's github stats](https://github-readme-stats.vercel.app/api?username=hetsuthar028&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=aura_dark)]() | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hetsuthar028&layout=compact&show_icons=true&theme=aura_dark)]() |
 | ------------------ | ------------------ |
+
+<hr />
+
+### 😂 Here is a random joke that'll make you laugh!
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
