@@ -12,6 +12,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-information?style=flat&logo=twitter&logoColor=while&color=1CA2F1)](https://twitter.com/HetSuthar7)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hetsuthar028/)
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=hetsuthar028)]()
+![Visitors](https://api.visitorbadge.io/api/visitors?path=hetsuthar028&label=Visitors&labelColor=%23d9e3f0&countColor=%23ff8a65)
 
 
 ### More about me:
